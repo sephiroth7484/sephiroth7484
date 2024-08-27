@@ -1,38 +1,58 @@
-# Hi there, I'm **Sushant Pandey** 👋
+# 👋 Hi, I'm Sushant Pandey
 
-![Java Developer](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+Experienced Software Engineer with over 2 years of IT experience specializing in Backend Engineering. I am proficient in Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka, and Microservices. My expertise lies in designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
-I’m a **Java Backend Developer** with over 2 years of experience in building scalable, reliable, and secure backend systems. I specialize in:
+---
 
-- **Java** 💻
-- **Spring Boot** 🌱
-- **Microservices Architecture** 🛠️
-- **RESTful APIs** 🌐
-- **Database Management (MySQL, MongoDB)** 🗄️
-- **Message Queues (Apache Kafka)** 🔗
+## 🛠 Skills & Technologies
 
-## 🔧 Tech Stack
+### Languages:
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-%2323ace2.svg?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 🚀 Projects
-
-### 🛒 **Automated Online Retail Store**
-- Developed the **OrderService** as the core subdomain using **Domain-Driven Design (DDD)** principles.
-- Built a suite of RESTful APIs using **Java** and **Spring Boot** to manage orders, customers, and inventory.
-- Integrated a microservices architecture to enhance system scalability and reliability.
+### Frameworks & Tools:
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+- ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+- ![RESTful API](https://img.shields.io/badge/RESTful_API-FCC624?style=for-the-badge&logo=api&logoColor=black)
+- ![Microservices](https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=microservices&logoColor=white)
   
-![Project GIF](https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif)
+### Databases:
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 📈 **Employee Account Tracker**
-- Implemented APIs to track employee accounts, improving data consistency by 25%.
-- Overcame challenges with legacy systems using custom APIs to bridge new and old technologies.
+### DevOps:
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+- ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### Messaging Systems:
+- ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+
+---
+
+## 💻 Work Experience
+
+### Java Backend Engineer @ Wipro (Jan 2023 - Present)
+- Automated online retail processes using **Domain-Driven Design (DDD)**, reducing manual intervention by 30%.
+- Developed RESTful APIs for **Employee Account Tracker** using Java and Spring Boot, improving data consistency by 25%.
+- Implemented **microservices architecture**, enhancing system scalability and performance.
+
+### Scholar Trainee @ Wipro (Jul 2022 – Jan 2023)
+- Mastered Java, Spring Boot, MySQL, Hibernate, and JPA, laying a strong foundation for backend development.
+- Worked on practical assignments that improved backend service performance using **Java** and **Spring Boot**.
+
+---
+
+## 🛠️ Projects
+
+### 🛒 **Online Retail Store Automation**
+- Implemented **Domain-Driven Design (DDD)** to automate business processes, reducing manual tasks by 30%.
+- Built and maintained backend services using **Spring Boot**, **Microservices**, and **Kafka**, enhancing scalability.
+
+### 💼 **Employee Account Tracker**
+- Developed RESTful APIs using Java and Spring Boot, improving data consistency by 25%.
+- Designed scalable architecture to handle increasing user data.
 
 ---
 
@@ -40,10 +60,10 @@ I’m a **Java Backend Developer** with over 2 years of experience in building s
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical)
 
+---
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant7684/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sephiro1h/)
-
-Thanks for stopping by! Feel free to check out my repositories and reach out if you have any questions. 😄
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sephiroth7484)
