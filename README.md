@@ -44,6 +44,6 @@ I’m a **Java Backend Developer** with over 2 years of experience in building s
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant7684/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sephi7684@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sephiro1h/)
 
 Thanks for stopping by! Feel free to check out my repositories and reach out if you have any questions. 😄
