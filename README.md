@@ -38,7 +38,8 @@ I’m a **Java Backend Developer** with over 2 years of experience in building s
 
 ## 📊 GitHub Stats
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sushant7684&show_icons=true&theme=radical)
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical)
+
 
 ## 📫 Connect with Me
 
