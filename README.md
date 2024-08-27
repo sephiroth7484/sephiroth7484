@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Sushant Pandey
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+# 👋 Sephiroth
+![Developer GIF](https://mavink.com/explore/Sephiroth-Flame-GIF)
 
 Experienced Software Engineer with over 2 years of IT experience specializing in Backend Engineering. Proficient in Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka, and Microservices. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
@@ -61,7 +61,6 @@ Experienced Software Engineer with over 2 years of IT experience specializing in
 
 ![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical)
 
 ---
 
