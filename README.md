@@ -1,5 +1,5 @@
 # 👋 Sushant aka Sephiroth
-![Developer GIF](https://media1.tenor.com/m/sCsga-4vdrAAAAAC/sephiroth-bring-it.gif)
+![Developer GIF](https://drive.google.com/uc?export=view&id=1LPpXxeMSQM5aAkSnwiHB_X1NBzuM6Szk)
 
 Experienced Backend Engineer with over 2+ years of IT experience specializing in Backend Engineering. Proficient in Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka, and Microservices. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
