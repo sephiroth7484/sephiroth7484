@@ -1,6 +1,5 @@
 # 👋 Sushant aka Sephiroth
-![Developer GIF](./Sushant_Pandey.gif)
-
+![Developer GIF](./Sushant_PaNdey.gif)
 
 Experienced Backend Engineer with over 2+ years of IT experience specializing in Backend Engineering. Proficient in Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka, and Microservices. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
@@ -24,7 +23,6 @@ Experienced Backend Engineer with over 2+ years of IT experience specializing in
 ### DevOps:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ### Messaging Systems:
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -58,8 +56,15 @@ Experienced Backend Engineer with over 2+ years of IT experience specializing in
 
 ## 📊 GitHub Stats
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical)
+![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sephiroth7484&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical)
 
+---
+
+## 🔥 GitHub Contribution Graph
+
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sephiroth7484&theme=rogue)
 
 ---
 
