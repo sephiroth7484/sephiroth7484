@@ -1,31 +1,41 @@
 # 👋 Sushant aka Sephiroth
-![Developer GIF](./Sushant_Pandey.gif)
+<img src="./Sushant_Pandey.gif" alt="Developer GIF" width="100%">
 
-Experienced Backend Engineer with over 2+ years of IT experience specializing in Backend Engineering. Proficient in Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka, and Microservices. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
+**Experienced Backend Engineer** with over 2+ years of IT experience specializing in **Backend Engineering**. Proficient in **Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka,** and **Microservices**. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
 ---
 
 ## 🛠 Skills & Technologies
 
 ### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+</p>
 
-### Frameworks & BuildTools:
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![RESTful API](https://img.shields.io/badge/RESTful_API-FCC624?style=for-the-badge&logo=api&logoColor=black)
-![Microservices](https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=microservices&logoColor=white)
+### Frameworks & Build Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate">
+  <img src="https://img.shields.io/badge/RESTful_API-FCC624?style=for-the-badge&logo=api&logoColor=black" alt="RESTful API">
+  <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
+</p>
 
 ### Databases:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
 
 ### DevOps:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</p>
 
 ### Messaging Systems:
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
+</p>
 
 ---
 
@@ -59,25 +69,36 @@ Experienced Backend Engineer with over 2+ years of IT experience specializing in
 <div align="center">
   
   ### 🚀 Sushant Pandey's Contributions
-  ![Contributions](https://github-readme-stats.vercel.app/api?username=sephiroth7484&hide=prs,issues&count_private=true&show_icons=true&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=sephiroth7484&hide=prs,issues&count_private=true&show_icons=true&theme=radical" alt="Contributions" width="75%">
 
   <br>
 
   ### 🔥 Current & Longest Streak
-  ![GitHub Streak](https://streak-stats.demolab.com?user=sephiroth7484&theme=radical&hide_border=true)
+  <img src="https://streak-stats.demolab.com?user=sephiroth7484&theme=radical&hide_border=true" alt="GitHub Streak" width="75%">
 
   <br>
 
   ### 💻 Languages Used
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical" alt="Top Languages" width="75%">
   
 </div>
 
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sushant7684/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Sephiro1h/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sephiroth7484)
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sushant7684/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/u/Sephiro1h/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://github.com/sephiroth7484">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+---
 
 ![Coding GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
