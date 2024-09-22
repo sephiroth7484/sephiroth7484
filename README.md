@@ -54,17 +54,24 @@ Experienced Backend Engineer with over 2+ years of IT experience specializing in
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Stats
 
-![Sushant's GitHub stats](https://github-readme-stats.vercel.app/api?username=sephiroth7484&show_icons=true&theme=radical&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sephiroth7484&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical)
+<div align="center">
+  
+  ### 🚀 Sushant Pandey's Contributions
+  ![Contributions](https://github-readme-stats.vercel.app/api?username=sephiroth7484&hide=prs,issues&count_private=true&show_icons=true&theme=radical)
 
----
+  <br>
 
-## 🔥 GitHub Contribution Graph
+  ### 🔥 Current & Longest Streak
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sephiroth7484&theme=radical&hide_border=true)
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=sephiroth7484&theme=rogue)
+  <br>
+
+  ### 💻 Languages Used
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sephiroth7484&layout=compact&theme=radical)
+  
+</div>
 
 ---
 
