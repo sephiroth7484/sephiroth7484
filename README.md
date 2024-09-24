@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Apache Kafka">
 </p>
 
----
+----
 
 ## 💻 Work Experience
 
@@ -50,7 +50,7 @@
 - 🎓 Mastered Java, Spring Boot, MySQL, Hibernate, and JPA, laying a strong foundation for backend development.
 - 💻 Worked on practical assignments that improved backend service performance using **Java** and **Spring Boot**.
 
----
+----
 
 ## 🛠️ Projects
 
@@ -62,7 +62,7 @@
 - 🔍 Developed RESTful APIs using Java and Spring Boot, improving data consistency by 25%.
 - 🔨 Designed scalable architecture to handle increasing user data.
 
----
+----
 
 ## 🏆 GitHub Stats
 
@@ -83,7 +83,7 @@
   
 </div>
 
----
+----
 
 ## 📫 Connect with Me
 
