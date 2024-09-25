@@ -87,6 +87,9 @@
 
 ## Top Repositories
 
+<!-- [![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sephiroth7484&theme=vue)](https://github.com/sephiroth7484) -->
+
+
 <div align="center">
 
 ### KeepNotes-Clone
@@ -96,7 +99,7 @@
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
 
-![Animated GIF](https://media.giphy.com/media/l0HlQ7LRalLwM6LZq/giphy.gif)
+<!-- ![Animated GIF](https://media.giphy.com/media/l0HlQ7LRalLwM6LZq/giphy.gif)  -->
 
 </div>
 
