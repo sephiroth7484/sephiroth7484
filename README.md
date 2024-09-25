@@ -84,6 +84,17 @@
 </div>
 
 ----
+## 📂 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/sephiroth7484/KeepNotes-Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sephiroth7484&repo=KeepNotes-Clone&theme=radical" alt="KeepNotes-Clone" width="45%">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  </a>
+</div>
+
+----
 
 ## 📫 Connect with Me
 
