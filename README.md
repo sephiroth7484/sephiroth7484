@@ -84,44 +84,21 @@
 </div>
 
 ----
-## 📂 Top Repositories
+
+## Top Repositories
 
 <div align="center">
-  <a href="https://github.com/sephiroth7484/KeepNotes-Clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sephiroth7484&repo=KeepNotes-Clone&theme=radical" alt="KeepNotes-Clone" width="45%" style="border-radius: 15px; transition: transform 0.3s ease-in-out;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="animation: glow 2s infinite alternate;">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="animation: glow 2s infinite alternate;">
-  </a>
-  <br>
-  <a href="https://github.com/sephiroth7484/Online-Retail-Store">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sephiroth7484&repo=Online-Retail-Store&theme=radical" alt="Online-Retail-Store" width="45%" style="border-radius: 15px; transition: transform 0.3s ease-in-out;">
-    <img src="https://img.shields.io/badge/Microservices-007396?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices" style="animation: glow 2s infinite alternate;">
-    <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka" style="animation: glow 2s infinite alternate;">
-  </a>
-  <br>
-  <a href="https://github.com/sephiroth7484/Employee-Account-Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sephiroth7484&repo=Employee-Account-Tracker&theme=radical" alt="Employee-Account-Tracker" width="45%" style="border-radius: 15px; transition: transform 0.3s ease-in-out;">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="animation: glow 2s infinite alternate;">
-    <img src="https://img.shields.io/badge/REST%20API-FCC624?style=for-the-badge&logo=api&logoColor=black" alt="REST API" style="animation: glow 2s infinite alternate;">
-  </a>
+
+### KeepNotes-Clone
+
+[![KeepNotes-Clone](https://github-readme-stats.vercel.app/api/pin/?username=sephiroth7484&repo=KeepNotes-Clone&theme=radical)](https://github.com/sephiroth7484/KeepNotes-Clone)
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
+
+![Animated GIF](https://media.giphy.com/media/l0HlQ7LRalLwM6LZq/giphy.gif)
+
 </div>
-
-<!-- Add the following CSS to your README or HTML -->
-<style>
-@keyframes glow {
-  from {
-    box-shadow: 0 0 5px #00ff00, 0 0 10px #00ff00, 0 0 15px #00ff00;
-  }
-  to {
-    box-shadow: 0 0 20px #00ff00, 0 0 30px #00ff00, 0 0 40px #00ff00;
-  }
-}
-
-a:hover img {
-  transform: scale(1.05);
-}
-
-</style>
 
 ----
 
