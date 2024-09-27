@@ -1,7 +1,7 @@
 # 👋 Sushant aka Sephiroth
 <img src="./Sushant_Pandey.gif" alt="Developer GIF" width="100%">
 
-**Experienced Backend Engineer** with over 2+ years of IT experience specializing in **Backend Engineering**. Proficient in **Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka,** and **Microservices**. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
+**Experienced Software Engineer** with over 2+ years of IT experience specializing in **Backend Engineering**. Proficient in **Java, Spring Boot, Hibernate, Spring Data JPA, Apache Kafka,** and **Microservices**. I am passionate about designing and developing scalable backend systems and optimizing performance for high-traffic applications.
 
 ----
 
