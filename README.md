@@ -41,14 +41,21 @@
 
 ## 💻 Work Experience
 
-### Java Backend Engineer @ Wipro (Jan 2023 - Present)
-- 🚀 Automated online retail processes using **Domain-Driven Design (DDD)**, reducing manual intervention by 30%.
-- 🔧 Developed RESTful APIs for **Employee Account Tracker** using Java and Spring Boot, improving data consistency by 25%.
-- 🛠️ Implemented **microservices architecture**, enhancing system scalability and performance.
+### Software Developer L1 @ Wipro (2024 - Present)
+- ⚙️ Working on optimizing microservices architecture for enhanced system performance.
+- 🔐 Implemented **Spring Security** for backend authentication and authorization.
+- ☁️ Collaborating on **AWS integration** to boost system scalability and reliability.
+- 🖥️ Enhancing frontend-backend integration with **Angular** for better user experience.
 
-### Scholar Trainee @ Wipro (Jul 2022 – Jan 2023)
-- 🎓 Mastered Java, Spring Boot, MySQL, Hibernate, and JPA, laying a strong foundation for backend development.
-- 💻 Worked on practical assignments that improved backend service performance using **Java** and **Spring Boot**.
+### Java Backend Engineer L1 @ Wipro (2023 - 2024)
+- 🚀 Automated online retail processes using **Domain-Driven Design (DDD)**, reducing manual intervention by 30%.
+- 🔧 Developed and optimized RESTful APIs for **Employee Account Tracker** using Java and Spring Boot, improving data consistency by 25%.
+- 🛠️ Implemented **microservices architecture** to address scalability issues, enhancing system performance and reliability.
+
+### Developer L1 Trainee @ Wipro (Jul 2022 - 2023)
+- 🎓 Mastered Java, Spring Boot, MySQL, Hibernate, and JPA through comprehensive training, laying a strong foundation for backend system development.
+- 💻 Utilized Java and Spring Boot in practical assignments, enhancing skills in building and maintaining backend services.
+- 🖥️ Developed hands-on experience with front-end technologies like HTML, CSS, and JavaScript in project tasks.
 
 ----
 
@@ -87,9 +94,6 @@
 
 ## Top Repositories
 
-<!-- [![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sephiroth7484&theme=vue)](https://github.com/sephiroth7484) -->
-
-
 <div align="center">
 
 ### KeepNotes-Clone
@@ -98,8 +102,6 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://github.com/sephiroth7484/KeepNotes-Clone)
-
-<!-- ![Animated GIF](https://media.giphy.com/media/l0HlQ7LRalLwM6LZq/giphy.gif)  -->
 
 </div>
 
